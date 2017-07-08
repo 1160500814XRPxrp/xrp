@@ -1,0 +1,6 @@
+
+ please enter a number
+80Num is big
+60Num is small
+65Num is small
+70Bingo!
